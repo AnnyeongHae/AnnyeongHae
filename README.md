@@ -78,7 +78,7 @@ about = {
 
 ### 📚 Published
 
-1. [소셜네트워크 분석 방법을 활용한 코로나 전, 후의 여행 트렌드 파악: <여행매거진>을 중심으로](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11300884) — 정안용·박진영·남윤재 (2021)
+1. [소셜네트워크 분석 방법을 활용한 코로나 전, 후의 여행 트렌드 파악: <여행매거진>을 중심으로]([https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11300884](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002770490)) — 정안용·박진영·남윤재 (2021)
 2. [네이버 뉴스 댓글을 활용한 ‘비혼출산’에 대한 감성분석](https://doi.org/10.5392/JKCA.2022.22.01.074) — 허세영·김초원·정안용·이새봄 (2022)
 3. [텍스트마이닝과 네트워크분석을 활용한 스마트도시 언론보도 분석](https://doi.org/10.37727/jkdas.2022.24.4.1563) — 정안용·박진영·남윤재 (2022)
 4. [쌍방향 대화원칙을 통한 한국과 미국의 음악저작권협회 홈페이지 비교분석 연구](https://doi.org/10.9728/dcs.2024.25.7.1931) — 석화윤·박태희·정안용·남윤재 (2024)
@@ -162,7 +162,7 @@ A public research portfolio connecting claims, sources, and review status so AI-
 
 ### 📚 Published
 
-1. [Mapping Travel Trends Before and After COVID-19 Using Social Network Analysis: Focusing on *Travel Magazine*](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11300884) — Anyong Cheong, Jinyoung Park, Yunjae Nam (2021)
+1. [Mapping Travel Trends Before and After COVID-19 Using Social Network Analysis: Focusing on *Travel Magazine*]([https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11300884](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002770490)) — Anyong Cheong, Jinyoung Park, Yunjae Nam (2021)
 2. [Sentiment Analysis of ‘Non-marital Childbirth’ Using Naver News Comments](https://doi.org/10.5392/JKCA.2022.22.01.074) — Seyoung Heo, Chowon Kim, Anyong Cheong, Saebom Lee (2022)
 3. [Analysis of Smart City Media Coverage Using Text Mining and Network Analysis](https://doi.org/10.37727/jkdas.2022.24.4.1563) — Anyong Cheong, Jinyoung Park, Yunjae Nam (2022)
 4. [A Comparative Analysis of Korean and U.S. Music Copyright Society Websites Through the Principle of Two-way Symmetrical Communication](https://doi.org/10.9728/dcs.2024.25.7.1931) — Hwayoon Seok, Taehee Park, Anyong Cheong, Yunjae Nam (2024)
