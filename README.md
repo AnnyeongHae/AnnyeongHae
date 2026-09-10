@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Opportunities-B8F564?style=for-the-badge&labelColor=0a0a0a&color=B8F564" alt="Available for Opportunities" />
 </p>
 
-<p align="center">📍 <strong>Pinned location · South Korea</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Pinned%20Location-South%20Korea-0EA5E9?style=for-the-badge&labelColor=0a0a0a" alt="Pinned location: South Korea" />
+</p>
 
 # Cheong Anyong
 
