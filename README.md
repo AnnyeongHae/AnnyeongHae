@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#한국어"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-0a0a0a?style=for-the-badge&labelColor=B8F564&color=0a0a0a" alt="한국어" /></a>
+  <a href="#한국어"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-0a0a0a?style=for-the-badge&labelColor=B8F564&color=ffffff" alt="한국어" /></a>
   <a href="#english"><img src="https://img.shields.io/badge/English-0a0a0a?style=for-the-badge&labelColor=0EA5E9&color=0a0a0a" alt="English" /></a>
 </p>
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Pinned%20Location-South%20Korea-0EA5E9?style=for-the-badge&labelColor=0a0a0a" alt="South Korea" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20%20-South%20Korea-0EA5E9?style=for-the-badge&labelColor=0a0a0a" alt="South Korea" />
 </p>
 
 ## 한국어
@@ -19,12 +19,11 @@
 
 ~~~json
 about = {
-  "name":       "Cheong Anyong",
-  "role":       "Business Automation Specialist",
-  "focus":      ["Data & AI Operations", "Process Automation", "SEO/GEO", "Data Analytics"],
-  "philosophy": "Turn scattered information and manual work into reviewable, reusable workflows.",
-  "location":   "South Korea",
-  "status":     "Open to full-time roles & freelance projects"
+  "name":       "정안용",
+  "role":       "운용 자동화 전문가",
+  "focus":      ["AI" "데이터", "자동화", "SEO/GEO", "데이터분석"],
+  "philosophy": "다양한 경험을 거름으로 삼아 현장의 목소리를 듣는 개발자",
+  "location":   "대한민국"
 }
 ~~~
 
@@ -48,7 +47,7 @@ about = {
 
 #### 📰 Factcheck & AI 뉴스 허브
 
-주장·출처·검토 상태를 연결해 AI 조사 결과를 사람이 확인할 수 있도록 만든 공개 리서치 포트폴리오입니다.
+인스타그램, X, Threads 등에서 바이럴 되는 게시글에 대하여, AI가 사실을 검증하는 리서치 포트폴리오입니다.
 
 <p>
   <a href="https://annyeonghae.github.io/ai-factcheck-portfolio/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-B8F564?style=for-the-badge&labelColor=0a0a0a" alt="Live Demo" /></a>
@@ -57,7 +56,7 @@ about = {
 
 #### 🖼️ 이미지 RAG
 
-[photoposting.shop](https://photoposting.shop)에서 이미지·프롬프트 아카이브를 보여주고, 로컬 소유자용 API에서 검색/RAG 방식으로 생성 작업에 참고할 이미지를 선택합니다. 공개 화면과 생성 참고용 데이터의 역할을 분리하고, 최종 사용은 사람의 검토를 거칩니다.
+공개된 이미지·프롬프트를 수집해 보여주고, RAG파이프라인을 통해 API 사용자에게 '관련 이미지'를 검색할 수 있도록 합니다.
 
 <p>
   <a href="https://photoposting.shop"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-B8F564?style=for-the-badge&labelColor=0a0a0a" alt="Live Demo" /></a>
@@ -69,10 +68,10 @@ about = {
 - **블로그 자동화**: 키워드 추출, 뉴스/자료 마이닝, 사실 확인, LLM 초안 작성, HTML 포맷팅과 결과물 저장을 연결한 Python 워크플로
 - **스마트스토어 운영 자동화**: Powerlink 키워드·광고 데이터 수집, SERP 파싱·분류로 광고 효율 개선을 지원하고 주문 확인·지연 문자·배송 처리를 자동화
 - **스마트스토어 상세페이지 자동화**: 상품 이미지와 특징을 입력하면 카피·레이아웃·HTML 상세페이지 산출물을 생성하는 로컬 Python 파이프라인
-- 접착 소재 제조 기업의 마케팅과 제품 포지셔닝 경험을 자동화 설계에 반영
 
 #### 🌎 Nammigo — SEO/GEO & Media Asset Automation
 
+- 해킹을 당해 SEO 최적하 최하위를 기록하던 WordPress 웹사이트를 상위노출로 리드
 - 네이버와 LLM 검색을 고려한 남미 여행 콘텐츠 최적화
 - Python 기반 사진 분류로 여행 이미지를 장소·날짜 기준으로 정리
 - 마케팅 팀 대상 프롬프트 엔지니어링·이미지 생성·워크플로 통합 교육
@@ -93,12 +92,6 @@ about = {
 |---|---|---|---|---|
 | 현업활용 우수사례 공모전 | 3등 · 공모전 수상 | 2025/11/28 | 한국관광공사 / 데이터마케팅코리아 | - |
 | KB IT’s Your Life 해커톤 | 우수상 수상 · 경진대회/해커톤 | 2024/11/20 → 2024/11/22 | KB 국민은행 | [Notion](https://app.notion.com/154e4a6d03ba802295adc8e90ac3ef3f) |
-| KB IT’s Your Life 5기 | 교육 | 2024/05/08 → 2024/10/23 | KB 국민은행 | [Notion](https://app.notion.com/14fe4a6d03ba8095b61ad9f245b56e0a) |
-
-### 🤝 Connect
-
-- GitHub: [@AnnyeongHae](https://github.com/AnnyeongHae)
-- Email: 공개 프로필의 이메일을 통해 연락해 주세요.
 
 ---
 
@@ -115,7 +108,6 @@ about = {
   "focus":      ["Data & AI Operations", "Process Automation", "SEO/GEO", "Data Analytics"],
   "philosophy": "Turn scattered information and manual work into reviewable, reusable workflows.",
   "location":   "South Korea",
-  "status":     "Open to full-time roles & freelance projects"
 }
 ~~~
 
@@ -184,9 +176,3 @@ A public research portfolio connecting claims, sources, and review status so AI-
 |---|---|---|---|---|
 | 현업활용 우수사례 공모전 | 3rd place · Competition | 2025/11/28 | Korea Tourism Organization / Data Marketing Korea | - |
 | KB IT’s Your Life Hackathon | Excellence Award · Hackathon | 2024/11/20 → 2024/11/22 | KB Kookmin Bank | [Notion](https://app.notion.com/154e4a6d03ba802295adc8e90ac3ef3f) |
-| KB IT’s Your Life 5th Cohort | Education | 2024/05/08 → 2024/10/23 | KB Kookmin Bank | [Notion](https://app.notion.com/14fe4a6d03ba8095b61ad9f245b56e0a) |
-
-### 🤝 Connect
-
-- GitHub: [@AnnyeongHae](https://github.com/AnnyeongHae)
-- Email: Please reach out through the email listed on my public profile.
