@@ -1,74 +1,91 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=220&section=header&text=Cheong%20Anyong&fontSize=52&fontColor=B8F564&fontAlignY=38&desc=Business%20Automation%20%7C%20Data%20%26%20AI%20Operations&descAlignY=62&descSize=16&descColor=E2E8F0" width="100%" alt="Cheong Anyong header" />
+</p>
 
-# 안영해 | Data & AI Operations
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available%20for%20Opportunities-B8F564?style=for-the-badge&labelColor=0a0a0a&color=B8F564" alt="Available for Opportunities" />
+</p>
 
-흩어진 정보와 반복 업무를 구조화해, 사람이 검토하고 실행할 수 있는 흐름으로 바꿉니다.
+<p align="center">📍 <strong>Pinned location · South Korea</strong></p>
 
-[GitHub](https://github.com/AnnyeongHae) · [Public Portfolio](https://annyeonghae.github.io/ai-factcheck-portfolio/)
+# Cheong Anyong
 
-</div>
+> Business Automation Specialist who connects business context, data analysis, and practical AI workflows.
 
 ## (0) Hook
 
-> 복잡한 자료를 읽기 쉬운 판단 자료로, 반복 업무를 다시 쓸 수 있는 시스템으로 바꾸는 실무자입니다.
-
-제조·제품·시장 정보를 조사하고, Python과 문서화 도구를 활용해 분석·기획·콘텐츠·검수 업무가 이어지는 구조를 설계합니다.
+흩어진 정보와 반복 업무를 **검토 가능한 흐름**으로 바꾸고, 분석 결과를 팀이 바로 사용할 수 있는 실행 자료로 전환합니다.
 
 ## (1) 👋 About Me
 
-저는 제조와 마케팅·기획 경험을 바탕으로, 흩어진 정보와 반복되는 업무를 구조화해 왔습니다. 제품과 시장을 이해한 뒤 고객과 동료가 바로 사용할 수 있는 자료와 실행 흐름으로 전환하는 데 강점이 있습니다.
+~~~json
+about = {
+  "name":       "Cheong Anyong",
+  "role":       "Business Automation Specialist",
+  "focus":      ["Data & AI Operations", "Process Automation", "SEO/GEO", "Data Analytics"],
+  "philosophy": "Turn scattered information and manual work into reviewable, reusable workflows.",
+  "location":   "South Korea",
+  "status":     "Open to full-time roles & freelance projects"
+}
+~~~
 
-### What I bring
+I turn **raw, scattered information** into clear business decisions — and **manual workflows** into documented, repeatable systems. I combine manufacturing and marketing experience with hands-on Python/JS, LLM workflow design, SEO/GEO, and data analytics.
 
-- **문제 정의:** 자료가 흩어져 있거나 반복 작업이 생기는 지점을 먼저 찾습니다.
-- **분석과 판단:** 원문·출처·가정을 구분하고, 확인 가능한 근거를 남깁니다.
-- **실행 구조화:** Python, 데이터 연결, 템플릿, 검수 단계를 조합해 반복 가능한 흐름을 만듭니다.
-- **업무 커뮤니케이션:** 제조·제품·시장 정보를 고객과 조직이 이해하는 언어로 정리합니다.
-
-관심 직무: **AI/Data Operations · Business Analyst · 업무자동화 · 데이터 기반 기획**
+From Python/LLM content workflows and photo classification to a SeaTable → AWS S3 data pipeline, I help teams adopt AI in a way that fits real operating work. I also bring a research background in text mining, NLP, and data analytics, with seven published academic papers.
 
 ## (2) 🛠️ Tech Stack
 
-| 영역 | 활용 역량 |
-| --- | --- |
-| Data & Research | Python · R · 데이터 정리 · 비정형 자료 분석 · 출처 관리 |
-| Workflow | 반복 업무 구조화 · 데이터 통합 · 검증 규칙 · 재현 가능한 문서화 |
-| AI-assisted work | LLM 활용 업무 설계 · 프롬프트/결과 검토 · 실패 유형 기록 |
-| Documentation | Markdown · Git/GitHub · Notion · 편집 가능한 보고서·발표자료 |
-| Domain context | 제조 · 제품/시장 조사 · 마케팅·기획 · 콘텐츠 운영 |
+### Data & BI
 
-> 기술 배지는 실제 프로젝트와 실행 문서로 확인되는 범위만 유지합니다. 프로젝트별 사용 기술과 기여 범위는 각 결과물에서 구분해 설명합니다.
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827) ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff) ![Tableau](https://img.shields.io/badge/TABLEAU-E87524?style=for-the-badge&logo=tableau&logoColor=ffffff) ![SQL Server](https://img.shields.io/badge/SQL%20SERVER-D32F2F?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
+
+### Programming
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+
+### AI & Automation
+
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=ffffff) ![Make](https://img.shields.io/badge/MAKE-6D28D9?style=for-the-badge&logo=make&logoColor=ffffff) ![ManyChat](https://img.shields.io/badge/MANYCHAT-0EA5E9?style=for-the-badge&logo=manychat&logoColor=ffffff) ![OpenAI](https://img.shields.io/badge/OPENAI-4C1D95?style=for-the-badge&logo=openai&logoColor=ffffff)
+
+> 배지는 사용 맥락을 빠르게 보여주기 위한 요약입니다. 실제 기여 범위와 프로젝트별 사용 기술은 각 결과물과 설명에서 구분합니다.
 
 ## (3) 🚀 Featured Projects
 
-### 🔎 FactCheck Hub — 출처 기반 AI 조사 결과 검토
+### 🧪 E.F.M — Marketing & Internal Process Automation
 
-**문제**: AI가 만든 조사 결과를 그대로 믿기 어렵고, 근거를 다시 확인하는 비용이 큽니다.  
-**기여**: 주장·출처·검토 상태를 연결해 사람이 결과를 확인할 수 있는 포트폴리오 흐름으로 정리했습니다.  
-**확인**: [공개 포트폴리오 보기](https://annyeonghae.github.io/ai-factcheck-portfolio/)
+- 접착 소재 제조 기업의 마케팅과 제품 포지셔닝을 리드
+- Python 스크립트와 LLM 프롬프트 템플릿으로 블로그 초안, 키워드 추출, HTML 포맷팅 업무를 구조화
+- 반복 콘텐츠 업무를 사람이 검토하고 재사용할 수 있는 흐름으로 전환
 
-### 🧪 EFM / TAPERO — 기술·제품·시장 정보를 고객 언어로 전환
+### 🌎 Nammigo — SEO/GEO & Media Asset Automation
 
-**문제**: 기술 설명, 제품 정보, 시장 주장이 서로 다른 문서에 흩어져 있습니다.  
-**기여**: 독자의 문제 → 해결 접근 → 작업 과정 → 확인 가능한 결과 → 적용 범위의 순서로 IR·콘텐츠 자료를 구조화했습니다.  
-**증거 상태**: 비공개 자료를 포함하므로 공개 가능한 범위와 확인이 필요한 주장을 분리합니다.
+- 네이버와 LLM 검색을 고려한 콘텐츠 최적화 및 남미 여행 콘텐츠 운영
+- Python 기반 사진 분류로 수천 장의 여행 이미지를 장소·날짜 기준으로 정리
+- 마케팅 팀 대상 프롬프트 엔지니어링·이미지 생성·워크플로 통합 교육 진행
 
-### 🍽️ Food Blog Pipeline — 조사부터 콘텐츠 검수까지
+### 🔗 SeaTable → AWS S3 Data Integration
 
-**문제**: 방문 기록, 사진, 오디오, 원고, 파생 콘텐츠가 여러 단계에서 섞이기 쉽습니다.  
-**기여**: 방문 근거와 미디어를 연결하고, 원고·이미지·검수 상태를 확인할 수 있는 반복 작업 흐름을 설계했습니다.  
-**증거 상태**: 공개 게시와 내부 검수 결과를 구분해 설명합니다.
+- CJ제일제당 DT Platform 인턴십에서 내부 SeaTable 레코드를 AWS S3로 동기화하는 Python 파이프라인 구현
+- 업무 데이터를 클라우드에서 저장·재사용할 수 있는 연결 구조로 정리
 
-### 🔗 SeaTable → AWS S3 Data Integration — 반복 데이터 연결
+### 🔎 FactCheck Hub — Source-grounded AI research portfolio
 
-**문제**: 팀이 사용하는 업무 데이터가 여러 도구에 나뉘어 반복 취합이 필요합니다.  
-**기여**: 입력 데이터를 정리하고 저장·재사용할 수 있는 연결 흐름으로 바꾸는 작업을 수행했습니다.  
-**증거 상태**: 회사 자료와 개인정보는 제외하고, 설명 가능한 설계·역할·한계 중심으로 공개합니다.
+- AI 조사 결과의 주장·출처·검토 상태를 연결해 사람이 확인할 수 있는 공개 포트폴리오 흐름 구축
+- [공개 포트폴리오 보기](https://annyeonghae.github.io/ai-factcheck-portfolio/)
 
 ## (4) Published
 
-- [AI FactCheck Portfolio](https://annyeonghae.github.io/ai-factcheck-portfolio/) — 공개 웹 포트폴리오
-- 연구·논문·학위논문 — 공식 서지정보와 원문 링크가 확인되는 항목부터 연결합니다.
+**Academic research · 7 papers + 1 master's thesis**
+
+1. **2026** — Cheong, A., & Nam, Y. *Pet Owners’ Hotel Choices in South Korea: Key Attributes.* (ESCI)
+2. **2025** — Yoon, S., Cheong, A., Kim, Y., & Nam, Y. *A longitudinal study of VR, AR, and metaverse tourism: Analyzing temporal topic evolution using dynamic topic modeling of news media (2016–2023).* (KCI)
+3. **2024** — Seok, H., Park, T., Cheong, A., & Nam, Y. *A Comparative Analysis of Performing Rights Organization Websites in Korea and USA Based on Dialogic Principles.* (KCI)
+4. **2023** — Cheong, A. *Hotel Choice Attributes in Pet-friendly Hotel: Text Mining and Conjoint Analysis Approach.* (Master’s Thesis, written in English)
+5. **2022** — Cheong, A., Park, J. Y., & Nam, Y. *Analysis of Smart City News Articles Using Text Mining and Network Analysis.* (KCI)
+6. **2022** — Huh, S., Kim, C. W., Cheong, A., & Lee, S. B. *Sentiment Analysis on Non-maritalism Childbirth Using Naver News Comments.* (KCI)
+7. **2021** — Park, J. Y., Cheong, A., & Nam, Y. *Travel trends studies before and after COVID-19: A social network analysis of headline in a travel magazine.* (KCI)
+
+> 공식 서지정보·DOI·원문 링크는 확인되는 항목부터 순차적으로 추가합니다.
 
 ## (5) 해커톤 경력
 
@@ -80,10 +97,10 @@
 
 ## (6) Connect
 
-- GitHub: [github.com/AnnyeongHae](https://github.com/AnnyeongHae)
+- GitHub: [@AnnyeongHae](https://github.com/AnnyeongHae)
 - Portfolio: [AI FactCheck Portfolio](https://annyeonghae.github.io/ai-factcheck-portfolio/)
 - 채용·협업 문의: GitHub 프로필을 통해 연락 부탁드립니다.
 
 ---
 
-이 README는 **문제 정의 → 분석·판단 → 실행 → 검증 가능한 결과 → 한계**의 순서로 작업을 보여주는 포트폴리오입니다.
+이 README는 **문제 정의 → 분석·판단 → 실행 → 검증 가능한 결과 → 한계**의 순서로 작업을 보여주는 취업용 포트폴리오입니다.
